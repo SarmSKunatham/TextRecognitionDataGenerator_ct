@@ -112,9 +112,9 @@ ENV/
 *.tiff
 *.svg
 
-*.ttf
-*.csv
-*.txt
+# *.ttf
+# *.csv
+# *.txt
 
-*.otf
+# *.otf
 *.zip
